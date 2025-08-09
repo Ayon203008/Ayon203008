@@ -22,16 +22,16 @@ I developed a full-featured matrimony platform designed to help individuals find
 I utilized React.js for the frontend, incorporating Tailwind CSS and DaisyUI for a modern, responsive design. The backend was built with Express.js, while MongoDB was used as the database. For secure user authentication, I implemented JSON Web Tokens (JWT).
 
 Live Link :https://last-try-f6ea0.web.app/
+</p>
 
-
-Project name - UserEcho
-I developed a multi-service platform designed to connect customers with a variety of professional services in one convenient place. The website provides a secure and user-friendly environment for Browse services, booking appointments, and managing requests. This project demonstrates my ability to build a robust, scalable, and versatile full-stack application from the ground up, showcasing my skills in handling diverse functionalities within a single platform.
+<h1>Project name - UserEcho</h1>
+<p>I developed a multi-service platform designed to connect customers with a variety of professional services in one convenient place. The website provides a secure and user-friendly environment for Browse services, booking appointments, and managing requests. This project demonstrates my ability to build a robust, scalable, and versatile full-stack application from the ground up, showcasing my skills in handling diverse functionalities within a single platform.
 
 I utilized **React.js** for the frontend, incorporating **Tailwind CSS** and **DaisyUI** for a modern, responsive design. The backend was built with **Express.js**, while **MongoDB** was used as the database. For secure user authentication, I implemented **JSON Web Tokens (JWT)**.
 
 Live link : https://assignment-11-8708f.web.app/
-</p>
 
+</p>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ayon203008)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ayon.ayon.583234)  
 
