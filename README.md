@@ -13,8 +13,8 @@ Skills:  REACT / JS / HTML / CSS/Tailwind
 - 💬 Ask me about Web development 
 - 📫 How to reach me: paypal572874@gmail.com
 
+<h1>My projects</h1> 
 <p> 
-My projects 
 SoulMate
 
 I developed a full-featured matrimony platform designed to help individuals find their life partners. The website provides a secure and user-friendly environment for creating profiles, connecting with potential matches, and building meaningful relationships. This project showcases my ability to build a complete, scalable, and secure full-stack application from the ground up.
