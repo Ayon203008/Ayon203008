@@ -11,7 +11,17 @@ Skills:  REACT / JS / HTML / CSS/Tailwind
 - 🔭 I’m currently working on Soulmate 
 - 🌱 I’m currently learning Next Js 
 - 💬 Ask me about Web development 
-- 📫 How to reach me: paypal572874@gmail.com 
+- 📫 How to reach me: paypal572874@gmail.com
+
+<p> 
+My projects 
+SoulMate
+
+I developed a full-featured matrimony platform designed to help individuals find their life partners. The website provides a secure and user-friendly environment for creating profiles, connecting with potential matches, and building meaningful relationships. This project showcases my ability to build a complete, scalable, and secure full-stack application from the ground up.
+
+I utilized React.js for the frontend, incorporating Tailwind CSS and DaisyUI for a modern, responsive design. The backend was built with Express.js, while MongoDB was used as the database. For secure user authentication, I implemented JSON Web Tokens (JWT).
+
+Live Link :https://last-try-f6ea0.web.app/</p>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ayon203008)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ayon.ayon.583234)  
