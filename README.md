@@ -14,8 +14,8 @@ Skills:  REACT / JS / HTML / CSS/Tailwind
 - 📫 How to reach me: paypal572874@gmail.com
 
 <h1>My projects</h1> 
+<h3>Project name - SoulMate</h3>
 <p> 
-Project name - SoulMate
 
 I developed a full-featured matrimony platform designed to help individuals find their life partners. The website provides a secure and user-friendly environment for creating profiles, connecting with potential matches, and building meaningful relationships. This project showcases my ability to build a complete, scalable, and secure full-stack application from the ground up.
 
@@ -24,7 +24,7 @@ I utilized React.js for the frontend, incorporating Tailwind CSS and DaisyUI for
 Live Link :https://last-try-f6ea0.web.app/
 </p>
 
-<h1>Project name - UserEcho</h1>
+<h3>Project name - UserEcho</h3>
 <p>I developed a multi-service platform designed to connect customers with a variety of professional services in one convenient place. The website provides a secure and user-friendly environment for Browse services, booking appointments, and managing requests. This project demonstrates my ability to build a robust, scalable, and versatile full-stack application from the ground up, showcasing my skills in handling diverse functionalities within a single platform.
 
 I utilized **React.js** for the frontend, incorporating **Tailwind CSS** and **DaisyUI** for a modern, responsive design. The backend was built with **Express.js**, while **MongoDB** was used as the database. For secure user authentication, I implemented **JSON Web Tokens (JWT)**.
