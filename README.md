@@ -1,76 +1,108 @@
 ![Banner](https://i.ibb.co.com/yFZ2kgpL/Black-and-Yellow-Web-Developer-Linked-In-Banner.png)
 
-<h1 align="center">Hi there 👋, I'm <span style="color:#FFD700;">Abid Hasan Ayon</span></h1>
-<h3 align="center">🚀 Frontend Web Developer | Passionate About Creating Interactive & Scalable Web Experiences</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#FFD700;">Abid Hasan Ayon</span></h1>
+<h3 align="center">💻 MERN Stack Developer | Passionate about building scalable web apps and modern user experiences</h3>
 
 ---
 
-### 🧠 About Me  
-💻 Frontend Web Developer skilled in **React.js**, **JavaScript**, and **modern UI frameworks**.  
-🎯 Focused on building **responsive**, **user-friendly**, and **high-performance** web applications.  
-🌱 Currently exploring **Next.js** and advanced **state management** techniques.  
-💬 Ask me about anything related to **Frontend Web Development**  
-📫 Reach me at: **paypal572874@gmail.com**
+### 🚀 About Me  
+I'm a **MERN Stack Developer** who loves turning complex problems into clean, efficient, and scalable web applications.  
+My focus is on creating **full-stack solutions** using modern technologies and best practices.  
+
+- 🔭 I’m currently working on **SoulMate** (Matrimony Platform)  
+- 🌱 Currently learning **Next.js**, **Redux Toolkit**, and **Server-Side Rendering (SSR)**  
+- 🧠 Exploring **Cloud Deployment**, **JWT Auth**, and **API Security**  
+- 💬 Ask me about **MERN Stack, REST APIs, Authentication, or State Management**  
+- 📫 Reach me at **paypal572874@gmail.com**  
 
 ---
 
-### 🧩 Tech Stack  
+### ⚙️ Tech Arsenal  
+
+#### 🧩 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,git,github,express,mongodb,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,daisyui" />
+</p>
+
+#### 🔙 Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose,jwt" />
+</p>
+
+#### 🧰 Tools & Others
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,postman,firebase,figma" />
 </p>
 
 ---
 
-### 🚀 Featured Projects  
+### 💼 Featured Projects  
 
-#### 🕊️ [SoulMate](https://last-try-f6ea0.web.app/)
-> A full-featured matrimony platform that helps individuals find their perfect match with secure authentication and dynamic profiles.
+#### 💍 [SoulMate](https://last-try-f6ea0.web.app/)
+> A secure and responsive matrimony platform that allows users to create biodatas, connect with matches, and build meaningful relationships.
 
-**Tech Used:** React.js, Tailwind CSS, DaisyUI, Express.js, MongoDB, JWT  
-🔗 [Live Demo](https://last-try-f6ea0.web.app/) | 🧠 [Code Repository](https://github.com/Ayon203008)
+**Tech Used:** React.js, Tailwind CSS, DaisyUI, Express.js, MongoDB, JWT, Firebase Auth  
+🧠 Features: CRUD operations, protected routes, admin dashboard, premium membership system  
+🔗 [Live Demo](https://last-try-f6ea0.web.app/) | 💻 [Frontend Repo](https://github.com/Ayon203008)  
 
 ---
 
 #### 💬 [UserEcho](https://assignment-11-8708f.web.app/)
-> A multi-service platform connecting customers with professional services, built with scalability and user experience in mind.
+> A full-stack multi-service platform connecting customers with professional services in a single ecosystem.
 
-**Tech Used:** React.js, Tailwind CSS, DaisyUI, Express.js, MongoDB, JWT  
-🔗 [Live Demo](https://assignment-11-8708f.web.app/) | 🧠 [Code Repository](https://github.com/Ayon203008)
-
----
-
-### 🛠️ GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayon203008&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayon203008&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayon203008&layout=compact&theme=tokyonight" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayon203008&theme=tokyonight" />
-</p>
+**Tech Used:** React.js, Express.js, MongoDB, Tailwind CSS, DaisyUI, JWT  
+🧠 Features: Service management, review system, admin control, dynamic routing  
+🔗 [Live Demo](https://assignment-11-8708f.web.app/) | 💻 [Frontend Repo](https://github.com/Ayon203008)  
 
 ---
 
-### 🏆 Achievements & Activity  
+### 📊 GitHub Analytics  
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayon203008&theme=onedark&margin-w=15&margin-h=15" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayon203008&show_icons=true&theme=radical&count_private=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Ayon203008&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayon203008&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayon203008&theme=radical" />
 </p>
 
 ---
 
-### 🌐 Connect With Me  
+### 🧠 Developer Insight  
 <p align="center">
-  <a href="https://github.com/Ayon203008" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"></a>
-  <a href="https://www.facebook.com/ayon.ayon.583234" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="40"></a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayon203008&theme=radical" />
 </p>
 
 ---
 
-### ✨ Fun Fact  
-> “Every great developer you know got there by solving problems they were unqualified to solve — until they actually did it.” 😄  
+### 🏆 Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayon203008&theme=darkhub&margin-w=10&margin-h=10" />
+</p>
 
 ---
 
-<p align="center">⭐ If you like my work, consider giving it a star — it helps and motivates me to grow further 🚀</p>
+### 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://github.com/Ayon203008" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="45"></a>
+  <a href="https://www.facebook.com/ayon.ayon.583234" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="45"></a>
+  <a href="mailto:paypal572874@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="45"></a>
+  <a href="https://www.linkedin.com" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"></a>
+</p>
+
+---
+
+### ⚡ Fun & Motivation  
+> 💡 “Code is like humor. When you have to explain it, it’s bad.”  
+> 🚀 Keep learning, keep building, and never stop improving.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ayon203008&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">⭐ If you like my work, give a star & let’s connect!</p>
