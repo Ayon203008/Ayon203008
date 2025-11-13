@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co.com/yFZ2kgpL/Black-and-Yellow-Web-Developer-Linked-In-Banner.png)
+![Banner](https://i.ibb.co.com/SDpCQBFJ/Abid-Hasan-Ayon-2.png)
 
 <h1 align="center">Hi 👋, I'm <span style="color:#FFD700;">Abid Hasan Ayon</span></h1>
 <h3 align="center">💻 MERN Stack Developer | Passionate about building scalable web apps and modern user experiences</h3>
@@ -13,7 +13,7 @@ My focus is on creating **full-stack solutions** using modern technologies and b
 - 🌱 Currently learning **Next.js**, **Redux Toolkit**, and **Server-Side Rendering (SSR)**  
 - 🧠 Exploring **Cloud Deployment**, **JWT Auth**, and **API Security**  
 - 💬 Ask me about **MERN Stack, REST APIs, Authentication, or State Management**  
-- 📫 Reach me at **paypal572874@gmail.com**  
+- 📫 Reach me at **abidayon2025@gmail.com**  
 
 ---
 
@@ -47,11 +47,11 @@ My focus is on creating **full-stack solutions** using modern technologies and b
 
 ---
 
-#### 💬 [UserEcho](https://assignment-11-8708f.web.app/)
+#### 💬 [TrustZen](https://assignment-11-8708f.web.app/)
 > A full-stack multi-service platform connecting customers with professional services in a single ecosystem.
 
 **Tech Used:** React.js, Express.js, MongoDB, Tailwind CSS, DaisyUI, JWT  
-🧠 Features: Service management, review system, admin control, dynamic routing  
+🧠 Features: Service management, review system,  dynamic routing  
 🔗 [Live Demo](https://trustzen-8e0c3.web.app/) | 💻 [Frontend Repo](https://github.com/Ayon203008/TrustZen-client-update-)  
 
 ---
