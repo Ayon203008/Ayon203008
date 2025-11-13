@@ -41,9 +41,9 @@ My focus is on creating **full-stack solutions** using modern technologies and b
 #### 💍 [SoulMate](https://last-try-f6ea0.web.app/)
 > A secure and responsive matrimony platform that allows users to create biodatas, connect with matches, and build meaningful relationships.
 
-**Tech Used:** React.js, Tailwind CSS, DaisyUI, Express.js, MongoDB, JWT, Firebase Auth  
+**Tech Used:** React.js, Tailwind CSS, DaisyUI, Express.js, MongoDB, Firebase Auth  
 🧠 Features: CRUD operations, protected routes, admin dashboard, premium membership system  
-🔗 [Live Demo](https://last-try-f6ea0.web.app/) | 💻 [Frontend Repo](https://github.com/Ayon203008)  
+🔗 [Live Demo](https://last-try-f6ea0.web.app/) | 💻 [Frontend Repo](https://github.com/Ayon203008/Soulmate_client-update-)  
 
 ---
 
@@ -52,7 +52,7 @@ My focus is on creating **full-stack solutions** using modern technologies and b
 
 **Tech Used:** React.js, Express.js, MongoDB, Tailwind CSS, DaisyUI, JWT  
 🧠 Features: Service management, review system, admin control, dynamic routing  
-🔗 [Live Demo](https://assignment-11-8708f.web.app/) | 💻 [Frontend Repo](https://github.com/Ayon203008)  
+🔗 [Live Demo](https://trustzen-8e0c3.web.app/) | 💻 [Frontend Repo](https://github.com/Ayon203008/TrustZen-client-update-)  
 
 ---
 
