@@ -1,108 +1,127 @@
-![Banner](https://i.ibb.co.com/SDpCQBFJ/Abid-Hasan-Ayon-2.png)
+<!-- Hero Section -->
+<p align="center">
+  <img src="https://i.ibb.co.com/SDpCQBFJ/Abid-Hasan-Ayon-2.png" alt="Abid Hasan Ayon Banner" />
+</p>
 
-<h1 align="center">Hi 👋, I'm <span style="color:#FFD700;">Abid Hasan Ayon</span></h1>
-<h3 align="center">💻 MERN Stack Developer | Passionate about building scalable web apps and modern user experiences</h3>
+<p align="center">
+  <a href="mailto:abidayon2025@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abidayon2025%40gmail.com-red?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://github.com/Ayon203008" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Ayon203008-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://www.facebook.com/ayon.ayon.583234" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+<h1 align="center">Hi, I'm <span style="color:#FFD700;">Abid Hasan Ayon</span> 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F97316&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Building+scalable+full-stack+web+applications;Modern+UI+%26+clean+architecture+enthusiast" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🚀 About Me  
-I'm a **MERN Stack Developer** who loves turning complex problems into clean, efficient, and scalable web applications.  
-My focus is on creating **full-stack solutions** using modern technologies and best practices.  
+## 🧭 Snapshot
 
-- 🔭 I’m currently working on **SoulMate** (Matrimony Platform)  
-- 🌱 Currently learning **Next.js**, **Redux Toolkit**, and **Server-Side Rendering (SSR)**  
-- 🧠 Exploring **Cloud Deployment**, **JWT Auth**, and **API Security**  
-- 💬 Ask me about **MERN Stack, REST APIs, Authentication, or State Management**  
-- 📫 Reach me at **abidayon2025@gmail.com**  
+- 💻 **MERN Stack Developer** focused on scalable, production-ready web apps  
+- 🔭 Currently building: **SoulMate – Matrimony Platform**  
+- 🌱 Deep-diving into **Next.js**, **Redux Toolkit**, and **SSR**  
+- ☁️ Exploring **cloud deployment**, **JWT auth**, and **API hardening**  
+- 🎯 Goal: Craft reliable, secure, and user-centric products  
 
 ---
 
-### ⚙️ Tech Arsenal  
+## 🧩 Tech Stack
 
-#### 🧩 Frontend
+<details open>
+<summary><b>Frontend</b></summary>
+<br />
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,daisyui" />
 </p>
 
-#### 🔙 Backend
+- **Core:** React, Next.js, JavaScript (ES6+), TypeScript  
+- **UI:** Tailwind CSS, DaisyUI, responsive & mobile-first layouts  
+- **Patterns:** Component-driven development, reusable UI, clean state flows  
+</details>
+
+<details open>
+<summary><b>Backend & Data</b></summary>
+<br />
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose,jwt" />
 </p>
 
-#### 🧰 Tools & Others
+- **API:** Node.js, Express.js, RESTful design  
+- **Database:** MongoDB & Mongoose (schema design, relations, indexing basics)  
+- **Security:** JWT auth, role-based access, protected routes  
+</details>
+
+<details open>
+<summary><b>Tools, DevOps & Others</b></summary>
+<br />
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,postman,firebase,figma" />
 </p>
 
----
-
-### 💼 Featured Projects  
-
-#### 💍 [SoulMate](https://last-try-f6ea0.web.app/)
-> A secure and responsive matrimony platform that allows users to create biodatas, connect with matches, and build meaningful relationships.
-
-**Tech Used:** React.js, Tailwind CSS, DaisyUI, Express.js, MongoDB, Firebase Auth  
-🧠 Features: CRUD operations, protected routes, admin dashboard, premium membership system  
-🔗 [Live Demo](https://last-try-f6ea0.web.app/) | 💻 [Frontend Repo](https://github.com/Ayon203008/Soulmate_client-update-)  
+- Git & GitHub (branching, PR workflow)  
+- Vercel, Netlify, Firebase for deployment & hosting  
+- Postman for API testing, Figma for wireframes and UX planning  
+</details>
 
 ---
 
-#### 💬 [TrustZen](https://assignment-11-8708f.web.app/)
-> A full-stack multi-service platform connecting customers with professional services in a single ecosystem.
+## 💼 Highlighted Projects
 
-**Tech Used:** React.js, Express.js, MongoDB, Tailwind CSS, DaisyUI, JWT  
-🧠 Features: Service management, review system,  dynamic routing  
-🔗 [Live Demo](https://trustzen-8e0c3.web.app/) | 💻 [Frontend Repo](https://github.com/Ayon203008/TrustZen-client-update-)  
+### 💍 SoulMate – Matrimony Platform  
+> A modern matrimony platform for creating biodatas, discovering matches, and managing premium membership.
+
+- 🔐 Auth & Access: Secure login, protected routes, role-based flows  
+- 📋 Features: Biodata CRUD, bookmarking, premium visibility, admin dashboard  
+- 🛠 Stack: React.js, Tailwind, DaisyUI, Express.js, MongoDB, Firebase Auth  
+- 🔗 **Live:** https://last-try-f6ea0.web.app/  
+- 💻 **Frontend Repo:** https://github.com/Ayon203008/Soulmate_client-update-
 
 ---
 
-### 📊 GitHub Analytics  
+### 💬 TrustZen – Multi-Service Platform  
+> A full-stack marketplace connecting users with verified service providers.
+
+- 🧾 Features: Service management, booking flows, review & rating system  
+- 🧭 Routing: Dynamic routes for services, dashboard, and user pages  
+- 🔐 Security: JWT-based auth, protected operations  
+- 🛠 Stack: React.js, Express.js, MongoDB, Tailwind, DaisyUI, JWT  
+- 🔗 **Live:** https://assignment-11-8708f.web.app/  
+- 💻 **Frontend Repo:** https://github.com/Ayon203008/TrustZen-client-update-
+
+---
+
+## 📊 Activity & Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayon203008&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=Ayon203008&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayon203008&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Ayon203008&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayon203008&layout=compact&theme=radical" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayon203008&theme=radical" />
-</p>
-
----
-
-### 🧠 Developer Insight  
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayon203008&theme=radical" />
-</p>
-
----
-
-### 🏆 Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayon203008&theme=darkhub&margin-w=10&margin-h=10" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayon203008&layout=compact&theme=radical" alt="Top Languages" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayon203008&theme=radical" alt="Profile Details" />
 </p>
 
 ---
 
-### 🌐 Connect with Me  
+## 🧠 Developer Journey
 
-<p align="center">
-  <a href="https://github.com/Ayon203008" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="45"></a>
-  <a href="https://www.facebook.com/ayon.ayon.583234" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="45"></a>
-  <a href="mailto:paypal572874@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="45"></a>
-  <a href="https://www.linkedin.com" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"></a>
-</p>
-
----
-
-### ⚡ Fun & Motivation  
-> 💡 “Code is like humor. When you have to explain it, it’s bad.”  
-> 🚀 Keep learning, keep building, and never stop improving.
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayon203008&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">⭐ If you like my work, give a star & let’s connect!</p>
+```ts
+const ayon = {
+  name: "Abid Hasan Ayon",
+  role: "MERN Stack Developer",
+  currentlyWorkingOn: "SoulMate (Matrimony Platform)",
+  learning: ["Next.js", "Redux Toolkit", "SSR", "API Security"],
+  interests: ["Scalable systems", "Clean UI/UX", "Cloud-native apps"],
+};
