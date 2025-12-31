@@ -104,28 +104,24 @@
 ## 📊 Activity & Stats
 
 <p align="center">
-  <!-- Core Stats with extra metrics -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Ayon203008&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage,discussions_started,discussions_answered"
+    src="https://github-readme-stats.vercel.app/api?username=Ayon203008&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
     alt="GitHub stats"
     width="48%"
   />
-  <!-- Streak Stats -->
   <img
-    src="https://streak-stats.demolab.com?user=Ayon203008&theme=radical&hide_border=false"
+    src="https://github-readme-streak-stats-eight.vercel.app?user=Ayon203008&theme=radical&hide_border=false"
     alt="GitHub streak"
     width="48%"
   />
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayon203008&layout=compact&theme=radical&langs_count=8&hide_progress=false"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayon203008&layout=compact&theme=radical&langs_count=8"
     alt="Top languages"
     width="48%"
   />
-  <!-- Profile summary card -->
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayon203008&theme=radical"
     alt="Profile details"
@@ -133,22 +129,11 @@
   />
 </p>
 
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Ayon203008&theme=redical&hide_border=false&area=true"
-      alt="Ayon's activity graph"
-      width="95%"
-    />
-  </a>
-</p>
-
-<!-- Contribution Snake (requires GitHub Action setup in your own repo) -->
 <p align="center">
   <img
-    src="https://github.com/Ayon203008/Ayon203008/raw/output/github-contribution-grid-snake.svg"
-    alt="Contribution snake animation"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ayon203008&theme=redical&hide_border=false&area=true"
+    alt="Ayon's activity graph"
+    width="95%"
   />
 </p>
 
